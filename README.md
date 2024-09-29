@@ -54,11 +54,4 @@ We welcome contributions! Feel free to submit pull requests, report issues, or s
 
 This project is licensed under the MIT License. Check the [LICENSE](LICENSE) file for more details.
 
-## 🚀 Happy Connecting! 🌟
-
 🚀 **Happy Connecting!** 🌟
-```
-
----
-
-This `README.md` provides all the necessary information about your project while keeping it clear and engaging. It highlights the supported databases, how to get started, and encourages contributions and support.
