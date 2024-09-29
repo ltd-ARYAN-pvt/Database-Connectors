@@ -1,7 +1,9 @@
 from collections import defaultdict
 
-USER='root'
-PASSWORD="root@2024"
+#--> Enter your username and password below which you have created while downloading the MySQL workbench account
+
+USER='enter your_username'
+PASSWORD="your_password"
 
 def createDB(name='defaultdb'):
     return f'create database if not exists {name}'
